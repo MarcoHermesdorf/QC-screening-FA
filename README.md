@@ -32,13 +32,13 @@ chmod +x start_qc.sh
 
 ```
 
-If the SNR density plots indicate that the cut-off values for the SNRs do not work well for your data, it may be reasonable to adjust them in the qc.R file. 
+If the SNR density plots indicate that the cut-off values for the SNRs do not work well for your data, it may be reasonable to adjust these in the qc.R file. 
 
 Images that should be further inspected are listed in the check_these_images.csv file.
 
 ## Referencing this script
 
-If you find this quality screening helpful, please cite the underlying software:
+If you may find this quality screening script helpful, please cite the underlying software:
 
 Jenkinson, M., Beckmann, C.F., Behrens, T.E., Woolrich, M.W., Smith, S.M. FSL. NeuroImage, 62:782-90, 2012 
 
