@@ -59,6 +59,11 @@ M. Jenkinson, C.F. Beckmann, T.E. Behrens, M.W. Woolrich, S.M. Smith. FSL. Neuro
 
 Jenkinson, M., Bannister, P., Brady, J. M. and Smith, S. M. Improved Optimisation for the Robust and Accurate Linear Registration and Motion Correction of Brain Images. NeuroImage, 17(2), 825-841, 2002. 
 
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 
 ```mermaid
 graph TD;
