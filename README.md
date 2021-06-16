@@ -22,7 +22,7 @@ This project aims to provide a brief quality screening for fractional anisotropy
 
 ## Usage
 
-Make start_qc.sh executable and run it. You will need to provide the path to the *FA.nii.gz images.
+Make start_qc.sh executable and run it. You only need to provide the path to the *FA.nii.gz images.
 
 ```bash
 
