@@ -25,9 +25,7 @@
   all.data$nonwm_to_core <- all.data$nonwm_mean / all.data$wm_core_sd
   all.data$inv_brain_ratio <- all.data$invb_mean / all.data$invb_sd
   
-# histograms and boxplots
-
-  # density plots
+# density plots
   
   jpeg('snr1.jpg')
   d_snr1 <- density(all.data$snr_1)
