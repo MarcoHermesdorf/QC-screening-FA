@@ -27,7 +27,7 @@
   
 # histograms and boxplots
 
-  # density plots, means, SDs
+  # density plots
   
   jpeg('snr1.jpg')
   d_snr1 <- density(all.data$snr_1)
@@ -70,12 +70,6 @@
   polygon(d_nonbrain_ratio3, col="red", border="blue")
   abline(v=1.15)
   dev.off()
-  
-  for (co in 10:ncol(all.data))
-    print(mean(all.data[,co]))
-  
-  for (co in 10:ncol(all.data))
-   print(sd(all.data[,co])*2)
 
 # filter outliers for inspection
   
