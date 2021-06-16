@@ -38,7 +38,7 @@ Images that should be further inspected are listed in the check_these_images.csv
 
 ## Masks used
  
-```mermaid
+
 
 graph TD
     A(*FA.nii.gz) -->|linear registration to JHU-ICBM-FA| B(*FA_reg.nii.gz)
@@ -49,7 +49,7 @@ graph TD
     
   K(JHU-ICBM-FA) --> L(wm_core)
 
-```
+
 
 ## Referencing this script
 
