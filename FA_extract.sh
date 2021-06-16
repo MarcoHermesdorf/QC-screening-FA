@@ -3,7 +3,7 @@
 # setup reg
 
 	cd $1
-	cp *.nii.gz $2/quality_control/reg
+	cp *FA.nii.gz $2/quality_control/reg
 	cp /usr/local/fsl/data/atlases/JHU/JHU-ICBM-FA-1mm.nii.gz $2/quality_control/reg
 
 # reg and masks
