@@ -42,4 +42,4 @@ If you may find this quality screening script helpful, please cite the underlyin
 
 	Jenkinson, M., Beckmann, C.F., Behrens, T.E., Woolrich, M.W., Smith, S.M. FSL. NeuroImage, 62:782-90, 2012 
 
-	Jenkinson, M., Bannister, P., Brady, J.M. and Smith, S.M. Improved Optimisation for the Robust and Accurate Linear 	Registration and Motion Correction of Brain Images. NeuroImage, 17(2), 825-841, 2002. 
+	Jenkinson, M., Bannister, P., Brady, J.M. and Smith, S.M. Improved Optimisation for the Robust and Accurate Linear Registration and Motion Correction of Brain Images. NeuroImage, 17(2), 825-841, 2002. 
