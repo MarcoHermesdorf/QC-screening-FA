@@ -38,6 +38,6 @@ Images that should be further inspected are listed in the check_these_images.csv
 
 ## Referencing this script
 
-If you may find this quality screening script helpful, please cite the underlying FMRIB Software Library (FSL):
+If you may find this quality screening script helpful, please cite the underlying FMRIB Software Library:
 
 	Jenkinson, M., Beckmann, C.F., Behrens, T.E., Woolrich, M.W., Smith, S.M. FSL. NeuroImage, 62:782-90, 2012 
