@@ -38,8 +38,6 @@ Images that should be further inspected are listed in the check_these_images.csv
 
 ## Referencing this script
 
-If you may find this quality screening script helpful, please cite the underlying software:
+If you may find this quality screening script helpful, please cite the underlying FMRIB Software Library (FSL):
 
 	Jenkinson, M., Beckmann, C.F., Behrens, T.E., Woolrich, M.W., Smith, S.M. FSL. NeuroImage, 62:782-90, 2012 
-
-	Jenkinson, M., Bannister, P., Brady, J.M. and Smith, S.M. Improved Optimisation for the Robust and Accurate Linear Registration and Motion Correction of Brain Images. NeuroImage, 17(2), 825-841, 2002. 
