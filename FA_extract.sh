@@ -30,7 +30,7 @@
 
 	fslmaths sample_brain_mask -kernel sphere 10 -fmean -thr 0.1 -bin -sub wm_core -bin non_wm
 
-	fslmaths sample_brain_mask  -mul -1 -add 1 sample_brain_mask_inv
+	fslmaths sample_brain_mask -mul -1 -add 1 sample_brain_mask_inv
 
 	fslmaths non_wm -sub sample_brain_mask -bin non_brain
 
